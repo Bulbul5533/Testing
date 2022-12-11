@@ -1,0 +1,17 @@
+.loginform {
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+    background: linear-gradient(to right, rgba(255, 0, 0, 0), rgba(255, 186, 139, 110));
+}
+
+mat-label {
+    padding: 20px;
+}
+.coverall
+{
+    padding-top:13%;
+}
+p{
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+    font-variant: small-caps;
+}
